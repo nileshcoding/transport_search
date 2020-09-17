@@ -1,0 +1,5 @@
+id,train_number,departure_loc,arrival_loc,journey_duration,fare
+1,123,patna,mfp,3hrs,150
+2,321,patna,howrah,6hrs,900
+6768,5869,noland,bhubaneswar,7hrs,10000
+8,1235,patna,delhi,30hrs,1500

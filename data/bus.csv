@@ -1,0 +1,4 @@
+id,bus_number,departure_loc,arrival_loc,journey_duration,fare
+4,4567,patna,hajipur,1hr,200
+6,0711,patna,hajipur,1hr,60
+7899,798798,bbsr,patna,16hrs,2000
